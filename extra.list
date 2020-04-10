@@ -8,4 +8,3 @@ deb http://ports.ubuntu.com/ubuntu-ports eoan-backports main restricted universe
 deb http://ports.ubuntu.com/ubuntu-ports eoan-security main restricted
 deb http://ports.ubuntu.com/ubuntu-ports eoan-security universe
 deb http://ports.ubuntu.com/ubuntu-ports eoan-security multiverse
-deb [arch=arm64] https://download.docker.com/linux/ubuntu eoan stable
